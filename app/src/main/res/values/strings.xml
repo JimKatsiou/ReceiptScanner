@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReceiptScannerApp</string>
+    <string name="scan_the_receipt">Scan the receipt</string>
+</resources>
